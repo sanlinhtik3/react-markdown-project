@@ -37,7 +37,7 @@ const App = () => {
     <div className=" container mx-auto px-3 lg:px-0 mt-5">
       <div className="prose prose-slate max-w-none">
         <h1 className="text-3xl font-bold underline text-emerald-500">
-          Hello Markdown!
+          Hello Markdown Project!
         </h1>
 
         <ReactMarkdown
